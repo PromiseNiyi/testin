@@ -140,6 +140,7 @@ section{
 
 .section-one1{
     background-image: url('/images/home.jpg');
+background-color:transparent;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
